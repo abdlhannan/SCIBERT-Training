@@ -1,0 +1,1 @@
+A method of real-time assessment of capacity of both anode and cathode in a metal-ion battery, said method comprising receiving, in said computer, current signals derived from battery current at said plurality of times

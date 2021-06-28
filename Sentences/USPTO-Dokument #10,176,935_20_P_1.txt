@@ -1,0 +1,1 @@
+A method to decrease the interfacial resistance between an electrode and an electrolyte composition in a battery or in a capacitor comprising incorporating into the electrolyte composition a compound of general formula (I): R.sup.1R.sup.2CF--O--C(O)--O--R.sup.3 (I) wherein R.sup.1 and R.sup.2 are independently H, F, alkyl, cycloalkyl, alkylene-aryl, or alkylene-heteroaryl

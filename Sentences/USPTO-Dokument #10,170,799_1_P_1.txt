@@ -1,0 +1,1 @@
+An electrochemical cell configured to exchange energy with an external device, the electrochemical cell comprising a negative electrode comprising at least a first active metal and a second active metal

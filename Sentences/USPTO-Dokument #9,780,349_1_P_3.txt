@@ -1,0 +1,1 @@
+A dendrite penetration-resistant layer for a rechargeable alkali metal battery, said layer comprising x.ltoreq.1, 1.ltoreq.y.ltoreq.4

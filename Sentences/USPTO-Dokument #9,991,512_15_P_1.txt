@@ -1,0 +1,1 @@
+A lithium ion electrochemical cell comprising a lithium ion-containing liquid electrolyte contacting a cathode and an anode that are separated from each other by a membrane that is permeable to the electrolyte

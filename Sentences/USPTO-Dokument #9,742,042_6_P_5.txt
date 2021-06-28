@@ -1,0 +1,1 @@
+An apparatus for real-time assessment of capacity of both anode and cathode in a metal-ion battery, wherein said apparatus is linked in operable communication with said battery, said apparatus comprising receiving current signals derived from battery current at said plurality of times

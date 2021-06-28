@@ -1,0 +1,1 @@
+A method of real-time assessment of capacity of both anode and cathode in a metal-ion battery, said method comprising calculating, in said computer, anode capacity as the integral of said current signals from said first time to said second time, divided by the difference between said second and first anode states of charge

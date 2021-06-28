@@ -1,0 +1,1 @@
+A method of real-time monitoring of anode and cathode voltage, anode and cathode differential voltage, and anode and cathode state of charge in a metal-ion battery, said method comprising receiving, in said computer, anode voltage signals derived from said first voltage monitor at a plurality of times
